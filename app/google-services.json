@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "886763104569",
+    "firebase_url": "https://fir-demo-a180a.firebaseio.com",
+    "project_id": "fir-demo-a180a",
+    "storage_bucket": "fir-demo-a180a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886763104569:android:c536d900fef200e668e0e8",
+        "android_client_info": {
+          "package_name": "edu.stanford.rkpandey.covidtracker1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886763104569-a673da259vjskntmaqkjcl81o9g71lh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.stanford.rkpandey.covidtracker1",
+            "certificate_hash": "411ac169cb0586a33051e7a2bee1db3048211c92"
+          }
+        },
+        {
+          "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnUDXkko8PyX9NW2dmLdFGhrfzC4NdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886763104569:android:1edaacf70549624b68e0e8",
+        "android_client_info": {
+          "package_name": "edu.stanford.rkpandey.covidtracker2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886763104569-bjbd1qld0a983eenjrflofkg7c5ar1ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.stanford.rkpandey.covidtracker2",
+            "certificate_hash": "411ac169cb0586a33051e7a2bee1db3048211c92"
+          }
+        },
+        {
+          "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnUDXkko8PyX9NW2dmLdFGhrfzC4NdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886763104569:android:789312ecaaed8a4c68e0e8",
+        "android_client_info": {
+          "package_name": "edu.stanford.rkpandey.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886763104569-8f4qo2lk18afuepbi0rirrk5djtcnsb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.stanford.rkpandey.firebasedemo",
+            "certificate_hash": "411ac169cb0586a33051e7a2bee1db3048211c92"
+          }
+        },
+        {
+          "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnUDXkko8PyX9NW2dmLdFGhrfzC4NdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886763104569-q46qa96deb5buvu58khesehuevp333vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

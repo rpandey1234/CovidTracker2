@@ -28,5 +28,8 @@ class MainActivity : AppCompatActivity() {
             }
             tvWorkers.text = workersString
         }
+
+        val michael = Worker("michael", "regional manager", 21)
+        firestoreDb.collection("workers").add(michael)
     }
 }
